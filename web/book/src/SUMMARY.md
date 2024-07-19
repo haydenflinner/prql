@@ -81,6 +81,7 @@ language design decisions and formal specifications for parts of the language.
   - [Name resolution](./reference/spec/name-resolution.md)
   - [Modules](./reference/spec/modules.md)
   - [Type system](./reference/spec/type-system.md)
+- [PRQL For Data Science in 100 Queries](./100queries/queries.md)
 
 # Project
 
